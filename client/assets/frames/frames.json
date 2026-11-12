@@ -1,0 +1,11 @@
+{
+  "bronze": {"title": "Бронзовая", "order": 1},
+  "wood": {"title": "Деревянная", "order": 2},
+  "gold": {"title": "Золотая", "order": 3},
+  "runes": {"title": "Руническая", "order": 4},
+  "dragon": {"title": "Дракон", "order": 5},
+  "dragon2": {"title": "Дракон 2", "order": 6},
+  "boss": {"title": "Босс", "order": 7},
+  "boss2": {"title": "Босс 2", "order": 8},
+  "boss3": {"title": "Босс 3", "order": 9}
+}

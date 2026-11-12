@@ -1,0 +1,14 @@
+{
+  "source": "dnd5e-6.0.6.zip",
+  "imported_at": "2026-10-18T22:47:07+00:00",
+  "counts": {
+    "monsters": 337,
+    "items": 976,
+    "spells": 319
+  },
+  "files": {
+    "monsters": "monsters.json",
+    "items": "items.json",
+    "spells": "spells.json"
+  }
+}

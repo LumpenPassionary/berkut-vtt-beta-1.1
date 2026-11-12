@@ -1,0 +1,9 @@
+{
+  "name": "vtt-dnd5e-tools",
+  "private": true,
+  "type": "module",
+  "description": "Локальные утилиты консоли vtt: чтение LevelDB-паков Foundry",
+  "dependencies": {
+    "classic-level": "^3.0.0"
+  }
+}

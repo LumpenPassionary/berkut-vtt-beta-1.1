@@ -1,0 +1,22 @@
+{
+  "spells": {
+    "total": 319,
+    "names_translated": 319,
+    "descriptions_translated": 319,
+    "english_descriptions": 0
+  },
+  "items": {
+    "total": 976,
+    "names_translated": 976,
+    "descriptions_translated": 893,
+    "empty_descriptions": 83,
+    "english_descriptions": 0,
+    "remaining_items": 0,
+    "remaining_unique_texts": 0,
+    "remaining_words": 0
+  },
+  "monsters": {
+    "records": 337,
+    "source": "dnd.su"
+  }
+}
